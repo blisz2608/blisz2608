@@ -1,5 +1,8 @@
-### Hi there 👋
+Sou a Helena Mottin Szostak 
+Meu gmail é: helena.szostak@escola.pr.gov.br
 
+
+![ovelha](https://super.abril.com.br/wp-content/uploads/2018/03/ovelha.png?w=1024&resize=1200,800)
 <!--
 **blisz2608/blisz2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
